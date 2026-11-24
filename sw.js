@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "englishrush-shell-v1";
+const CACHE_NAME = "englishrush-shell-v2";
 
 const CORE_ASSETS = [
     "./",
